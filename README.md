@@ -73,7 +73,12 @@ The application will start on http://localhost:8080.
 - Method: GET
 - Description: Returns a list of all student data.
 
-5. Deletion of student data
+5. Updating Student data
+- URL: `/update/{id}`
+- Method: PUT
+- Description: Updates all fields of data.
+
+6. Deletion of student data
 - URL: `/delete/{id}`
 - Method: DELETE
 - Description: Delete student data of provided id.

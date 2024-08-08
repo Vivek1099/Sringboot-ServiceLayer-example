@@ -43,4 +43,10 @@ public class StudentService
 		return srepo.findById(id);
 	}
 	
+	public String deleteById(int id)
+	{
+		srepo.deleteById(id);
+		return "Data Deleted";
+	}
+	
 }

@@ -16,8 +16,8 @@ This is a Spring Boot application that demonstrates basic CRUD operations. It in
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- postgreSQL (can be replaced with any other database)
-- Spring Validation
+- MariaDB (can be replaced with any other database)
+- Swagger
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ This is a Spring Boot application that demonstrates basic CRUD operations. It in
 
 1. Clone the repository:
    sh
-   https://github.com/KoushalKumar22/SpringBoot-MethodArgumentNotValidException.git
+   
    cd SpringBoot-MethodArgumentNotValidException
 2. Build the project:
    sh

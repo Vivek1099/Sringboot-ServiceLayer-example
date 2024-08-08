@@ -30,8 +30,8 @@ This is a Spring Boot application that demonstrates basic CRUD operations. It in
 
 1. Clone the repository:
    sh
-   
-   cd SpringBoot-MethodArgumentNotValidException
+   https://github.com/Vivek1099/Sringboot-ServiceLayer-example.git
+   cd SpringBoot-Springboot-ServiceLayer-example
 2. Build the project:
    sh
      mvn clean install

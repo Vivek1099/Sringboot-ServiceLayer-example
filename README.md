@@ -56,6 +56,7 @@ The application will start on http://localhost:8080.
 - Method: POST
 - Description: Save a new student data record to the database
 - Request Body: json in postman
+  
   sh
     {
     "name":"vishal",

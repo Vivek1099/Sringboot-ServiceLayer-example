@@ -29,14 +29,14 @@ This is a Spring Boot application that demonstrates basic CRUD operations. It in
 ### Installation
 
 1. Clone the repository:
-   sh
+   ```sh
    https://github.com/Vivek1099/Sringboot-ServiceLayer-example.git
    cd SpringBoot-Springboot-ServiceLayer-example
 2. Build the project:
-   sh
+   ```sh
      mvn clean install
 3. Run the application:
-   sh
+   ```sh
      mvn spring-boot:run
 The application will start on http://localhost:8080.
 
@@ -56,8 +56,7 @@ The application will start on http://localhost:8080.
 - Method: POST
 - Description: Save a new student data record to the database
 - Request Body: json in postman
-  
-  sh
+  ```sh
     {
     "name":"vishal",
     "school":"nml",
